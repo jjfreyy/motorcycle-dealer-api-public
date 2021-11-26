@@ -1,0 +1,4 @@
+db.default.host = localhost
+db.default.user = root
+db.default.password = root
+db.default.database = nodejs

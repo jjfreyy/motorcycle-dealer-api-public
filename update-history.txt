@@ -1,0 +1,8 @@
+1.0.1 Perbaikan bug koneksi timeout pada mysql.
+1.0.2 Penambahan tipe pencarian no. mesin pada menu dokumen samsat.
+1.0.2+1 Merapikan beberapa kode & menambah model brosur untuk testing.
+1.0.3 
+    - Penambahan path untuk akses file pdf.
+    - Penambahan api autocomplete brosur.
+1.0.3+1 Fix query pemohon dokumen samsat.
+1.0.3+2 Fix query pending kirim penjualan pada menu stok.

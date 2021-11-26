@@ -1,0 +1,28 @@
+{
+  "name": "lestari_api",
+  "version": "1.0.3",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "title lestari-api && node server.js",
+    "sdev": "title lestari-api && nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Jeffry Angkasari",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^4.5.1",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "striptags": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "type": "module"
+}
